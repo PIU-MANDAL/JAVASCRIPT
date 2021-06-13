@@ -1,0 +1,17 @@
+.card{
+    height:300px;
+    width:210px;
+    border:1px;
+    border-color:black;
+    border-style: solid;
+    border-radius:5px;
+    text-align:center;
+    background-color: darkolivegreen;
+    }
+img{
+    width: 200px;
+    border-width: 5px;
+    border-color:rgb(236,183,191);
+    border-style: solid;
+    border-radius: 50%;
+}

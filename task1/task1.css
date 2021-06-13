@@ -1,0 +1,108 @@
+/*
+global css
+        */
+:root{
+    --grey : rgb(204,193,193);
+    --blue : blue;
+    --palevioletred:palevioletred;
+    --orange:orange;
+    --rebeccapurple:rebeccapurple;
+}
+
+body{
+    margin : 0;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.header{
+    background-color:var(--blue);
+    height: 80px;
+    text-align: center;
+
+}
+.path{
+    background-color: palevioletred;
+    height: 80px;
+    text-align: center;
+}
+.docktop{
+    background-color:orange;
+    height: 60px;
+    text-align: center;
+}
+.content-portion{
+    display: flex;
+}
+.content{
+    background-color: grey;
+    height :300px;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.error{
+    background-color:rebeccapurple ;
+    height:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dockleft{
+    background-color: salmon;
+    height: 400px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dockright{
+    background-color: springgreen;
+    height:400px;
+    width:1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.dockbottom{
+    background-color: turquoise;
+    height: 50px;
+}
+.footer{
+    background-color: coral;
+    height: 60px;
+}
+.row-1{
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    color: seagreen;
+
+}
+h2{
+    color:crimson;
+}
+li{
+color:blue;
+}
+.done{
+    color:grey;
+}
+#clear{
+   background-color:red;
+   color:white;
+}
+header a{
+    font-size:30px;
+    color:teal;
+}
+#dislike{
+   font: bold; 
+}
+
+

@@ -1,0 +1,57 @@
+#container
+{
+    padding:1 rem;
+letter-spacing:8px;
+word-spacing: 3px;
+}
+body{
+    height:1000px;
+    background-image:url("https://media.istockphoto.com/photos/day-picture-id1034861128?k=6&m=1034861128&s=612x612&w=0&h=ZFe0_YJK4wz3Naw4IqhMdWKSPpOzABK52txkIJ-dOpw=");
+    background-repeat: no-repeat;
+    background-color:olivedrab;
+    
+
+}
+h1{
+    font-weight:bolder;
+    font-size:80px;
+    text-align: center;
+    color: red;
+    text-shadow:crimson;
+}
+h2
+{
+font-size:40px;
+text-align:center;
+color:blue;
+}
+h3{
+    font-size:20px;
+    font-weight:bold;
+    text-align:center;
+    color:crimson;
+}
+button
+{
+    background-color: rgb(100, 210, 214);
+    color:rgb(131, 7, 34);
+}
+#signup{
+    background: rgb(14, 90, 90);
+    color: yellow;}
+    #signup:hover{
+
+    background-color: palevioletred;
+}
+input{
+    color: tomato;
+}
+ button:hover{
+    background-color: coral;
+    font-size: smaller;
+
+}
+footer{
+    font-weight: bolder;
+
+}    

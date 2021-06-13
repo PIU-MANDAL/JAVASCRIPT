@@ -1,0 +1,24 @@
+#checker-board{
+    height:1000px;
+    width:400px;
+    background-color:white;
+    border:10px ;
+}
+.square{
+    height:100px;
+    width:100px;
+    border:1px solid black;
+    display:inline-block;
+    margin:-2px;
+    background-color:red;
+    font-size:80px;
+    color:cyan;
+}
+  .black {
+      background-color: black;
+    
+  }
+
+ 
+
+

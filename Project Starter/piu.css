@@ -1,0 +1,22 @@
+/* 
+    1. change the color of body to grey
+    2. change the font size of h1 tag
+    3. add a class as wll as id on h1 tag
+    4. using class change the font color of the text
+    5. change the content of h1 tag to upper case using id
+*/
+body{
+    background-color:grey;
+}
+h1{
+    font-size:60px;
+}
+.class1 {
+    font-style:italic;
+    color:crimson;
+}
+#abc
+{
+    text-transform:uppercase;
+}
+

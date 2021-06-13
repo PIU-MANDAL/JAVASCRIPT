@@ -1,0 +1,30 @@
+h1{
+    text-align:center;
+    font-size:80px;
+     border-bottom-style: double;
+     border-bottom-color:brown;
+     font-weight: 900;
+
+    color:darkblue;
+
+
+}
+p{
+    color:green;
+    font-size:40px;
+    font-weight:900;
+}
+body{
+   border: 5px solid red;
+   border-radius: 1rem;
+    background: linear-gradient(to left, #fa4c4c 0%, #f368ae 100%);
+ 
+}
+div{
+    font-size:2rem;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
